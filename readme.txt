@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== APC Cache Purge ===
 Contributors: 2020media,tj-stein
 Donate link: http://www.2020media.com/wordpress/
 Tags: APC, Cache, Purge
