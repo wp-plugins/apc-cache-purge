@@ -3,7 +3,7 @@ Contributors: 2020media,tj-stein
 Donate link: http://www.2020media.com/wordpress/
 Tags: APC, Cache, Purge
 Requires at least: 3.2
-Tested up to: 4.2.2
+Tested up to: 4.3
 Stable tag: trunk
 License: GPLv2 or later
 
